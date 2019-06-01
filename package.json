@@ -1,0 +1,24 @@
+{
+  "name": "servertruyen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "image-size": "^0.7.4",
+    "inquirer": "^6.2.2",
+    "inquirer-autocomplete-prompt": "^1.0.1",
+    "mongoose": "^5.5.0",
+    "node-html-parser": "^1.1.15",
+    "nodemon": "^1.18.11",
+    "repository": "^0.2.0",
+    "request": "^2.88.0"
+  }
+}

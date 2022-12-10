@@ -11,7 +11,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "image-size": "^0.7.4",
     "inquirer": "^6.2.2",
     "inquirer-autocomplete-prompt": "^1.0.1",
